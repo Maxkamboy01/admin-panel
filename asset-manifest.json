@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/admin-panel/static/css/main.d554bffd.chunk.css",
+    "main.js": "/admin-panel/static/js/main.3b46a31c.chunk.js",
+    "main.js.map": "/admin-panel/static/js/main.3b46a31c.chunk.js.map",
+    "runtime-main.js": "/admin-panel/static/js/runtime-main.7dad62b5.js",
+    "runtime-main.js.map": "/admin-panel/static/js/runtime-main.7dad62b5.js.map",
+    "static/css/2.a95be28f.chunk.css": "/admin-panel/static/css/2.a95be28f.chunk.css",
+    "static/js/2.4d4ec610.chunk.js": "/admin-panel/static/js/2.4d4ec610.chunk.js",
+    "static/js/2.4d4ec610.chunk.js.map": "/admin-panel/static/js/2.4d4ec610.chunk.js.map",
+    "static/js/3.622864fb.chunk.js": "/admin-panel/static/js/3.622864fb.chunk.js",
+    "static/js/3.622864fb.chunk.js.map": "/admin-panel/static/js/3.622864fb.chunk.js.map",
+    "index.html": "/admin-panel/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/admin-panel/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.d554bffd.chunk.css.map": "/admin-panel/static/css/main.d554bffd.chunk.css.map",
+    "static/js/2.4d4ec610.chunk.js.LICENSE.txt": "/admin-panel/static/js/2.4d4ec610.chunk.js.LICENSE.txt",
+    "static/media/cake.ab834022.jpg": "/admin-panel/static/media/cake.ab834022.jpg",
+    "static/media/file.84170913.jpg": "/admin-panel/static/media/file.84170913.jpg",
+    "static/media/macbook.6c2c7575.jfif": "/admin-panel/static/media/macbook.6c2c7575.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dad62b5.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.4d4ec610.chunk.js",
+    "static/css/main.d554bffd.chunk.css",
+    "static/js/main.3b46a31c.chunk.js"
+  ]
+}
